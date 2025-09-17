@@ -7,7 +7,7 @@ Soy un desarrollador web con más de 4 años de experiencia en el diseño, desar
 - 🔭 **Trabajando en**: Actualización de un ERP.
 - 🌱 **Aprendiendo**: Laravel, Docker, Django.
 - 👯 **Busco colaborar en**: Proyectos de desarrollo web y automatización.
-- 📫 **Contáctame**: [isales.enrique@gmail.com](mailto:isales.enrique@gmail.com)
+- 📫 **Contáctame**: [enrique_isales@proton.me](mailto:enrique_isales@proton.me)
 - 📄 **Conoce mi experiencia**: [LinkedIn](https://www.linkedin.com/in/enrique-isales/)
 
 ---
