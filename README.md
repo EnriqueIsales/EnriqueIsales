@@ -1,23 +1,68 @@
-<h1 align="center">Hi 👋, I'm Enrique Isales</h1>
-<h3 align="center">Desarrollador web con experiencia en JavaScript, Ajax, PHP y Python. Me apasiona la programación orientada a objetos y la creación de soluciones innovadoras para desafíos complejos. Me encanta trabajar en equipo y aprender nuevas tecnologías.</h3>
+# Hi 👋, I'm Enrique Isales 💻
 
-- 🔭 Actualmente estoy trabajando en **Actualización de un ERP**
+### Analista Desarrollador Full Stack | Pasión por la optimización y soluciones innovadoras
 
-- 🌱 I’m currently learning **Laravel, Dark, Django**
+Soy un desarrollador web con más de 4 años de experiencia en el diseño, desarrollo e implementación de soluciones de software. Me especializo en **Python**, **JavaScript**, **PHP** y bases de datos relacionales/no relacionales, con un enfoque en programación orientada a objetos y metodologías ágiles. Actualmente estoy estudiando el décimo semestre de Ingeniería en Sistemas y me apasiona aprender nuevas tecnologías para crear sistemas escalables y eficientes.
 
-- 👯 Busco colaborar en **Desarrollos Webs**
+- 🔭 **Trabajando en**: Actualización de un ERP.
+- 🌱 **Aprendiendo**: Laravel, Docker, Django.
+- 👯 **Busco colaborar en**: Proyectos de desarrollo web y automatización.
+- 📫 **Contáctame**: [isales.enrique@gmail.com](mailto:isales.enrique@gmail.com)
+- 📄 **Conoce mi experiencia**: [LinkedIn](https://www.linkedin.com/in/enrique-isales/)
 
-- 📫 How to reach me **isales.enrique@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/enrique-isales/](https://www.linkedin.com/in/enrique-isales/)
+## 📊 Estadísticas
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/enrique-isales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enrique-isales" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriqueisales&layout=compact&theme=dracula&hide=html,css)](https://github.com/enriqueisales/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enriqueisales&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enriqueisales&show_icons=true&locale=en&layout=compact" alt="enriqueisales" /></p>
+---
 
+## 💻 Proyectos destacados
+
+| Proyecto                  | Descripción                                      | Tecnologías         | Enlace                        |
+|---------------------------|--------------------------------------------------|---------------------|-------------------------------|
+| [ProyectoAnalisisII](https://github.com/EnriqueIsales/ProyectoAnalisisII) | Sistema en PHP para análisis de datos.          | PHP                 | [Ver](https://github.com/EnriqueIsales/ProyectoAnalisisII) |
+| [ProyectoDesarrolloWeb](https://github.com/EnriqueIsales/ProyectoDesarrolloWeb) | Clínica web con MVC en PHP y JS.                | PHP, JavaScript     | [Ver](https://github.com/EnriqueIsales/ProyectoDesarrolloWeb) |
+| [compresion_PDF_TK_PY](https://github.com/EnriqueIsales/compresion_PDF_TK_PY) | Herramienta de compresión de PDFs con Python.   | Python              | [Ver](https://github.com/EnriqueIsales/compresion_PDF_TK_PY) |
+
+*Explora más de mis proyectos en mi [perfil de GitHub](https://github.com/EnriqueIsales)!*
+
+---
+
+## 🌐 Conéctate conmigo
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/enrique-isales/
+
+---
+
+## 🛠️ Lenguajes y herramientas
+
+### Backend
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> PHP
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> Python
+
+### Frontend
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> HTML5
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> Bootstrap
+
+### Bases de Datos
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> MySQL
+
+### Herramientas
+- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> Git
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> Linux
+
+### Otros
+- <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> Arduino
+- <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" width="40" height="40"/> Materialize
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> Photoshop
+
+---
+
+*Última actualización: 17 de septiembre de 2025*
